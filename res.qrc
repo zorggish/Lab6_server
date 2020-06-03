@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>chat.ico</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>empty.db</file>
+    </qresource>
+</RCC>
